@@ -1,7 +1,0 @@
-com\vaadin\training\router\exercises\ExercisesSpringBootApplication.class
-com\vaadin\training\router\exercises\MainView.class
-com\vaadin\training\router\exercises\LotteryView.class
-com\vaadin\training\router\exercises\LoginView.class
-com\vaadin\training\router\exercises\InvalidValueException.class
-com\vaadin\training\router\exercises\ErrorView.class
-com\vaadin\training\router\exercises\HomeView.class
