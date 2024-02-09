@@ -1,0 +1,15 @@
+.emailField::part(label) {
+    color: red;
+}
+
+.styledCheckbox[checked] {
+    color: green;
+}
+
+.yellowBgColorCombo::part(input-field), .overlayYellowBgColorCombo::part(overlay) {
+    background-color: yellow;
+}
+
+vaadin-grid::part(warn) {
+    color: red;
+}
